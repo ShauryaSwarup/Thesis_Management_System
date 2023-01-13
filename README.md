@@ -16,16 +16,14 @@
 <h1 align="center">Thesis Management System</h1>
 
   <p align="center">
-    A Web-Based Application for the entire life-cycle of a Thesis Creation
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    A web-based application that manages the entire workflow of a PhD Thesis.
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/ars-21/Thesis_Management_System/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/ars-21/Thesis_Management_System/issues">Request Feature</a>
   </p>
 </div>
 
@@ -63,12 +61,12 @@ A Web-Based Application for the entire life-cycle of a Thesis Creation
 
 <!-- CONTRIBUTORS -->
 ## Contributors
-* [Shaurya Swarup](https://github.com/ShauryaSwarup)
-* [Narayani Bokde](https://github.com/narayanibokde9)
-* [Adwait Mandge](https://github.com/adwaitmandge)
-* [Pranav Janjani](https://github.com/compgeek03)
-* [Siddheshsingh Tanwar](https://github.com/siddheshsingh26)
-* [Aryan Shah](https://github.com/ars-21)
+* [Shaurya Swarup](https://github.com/ShauryaSwarup) : [srswarup_b21@ce.vjti.ac.in](mailto:srswarup_b21@ce.vjti.ac.in)
+* [Narayani Bokde](https://github.com/narayanibokde9) : [nbokde_b21@ce.vjti.ac.in](mailto:nbokde_b21@ce.vjti.ac.in)
+* [Adwait Mandge](https://github.com/adwaitmandge) : [anmandge_b21@ce.vjti.ac.in](mailto:anmandge_b21@ce.vjti.ac.in)
+* [Pranav Janjani](https://github.com/compgeek03) : [prjanjani_b21@ce.vjti.ac.in ](mailto:prjanjani_b21@ce.vjti.ac.in )
+* [Siddheshsingh Tanwar](https://github.com/siddheshsingh26) : [smtanwar_b21@ce.vjti.ac.in](mailto:smtanwar_b21@ce.vjti.ac.in)
+* [Aryan Shah](https://github.com/ars-21) : [asshah_b21@el.vjti.ac.in](mailto:asshah_b21@el.vjti.ac.in)
 
 
 <!-- ACKNOWLEDGEMENTS AND REFERENCES -->
