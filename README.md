@@ -5,20 +5,26 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+<!-- VJTI LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/ars-21/Thesis_Management_System">
+    <img src="/assets/vjti_logo.jpeg" alt="Logo" width="80" height="80">
+  </a>
+
+
+[contributors-shield]: https://img.shields.io/github/contributors/ars-21/Thesis_Management_System.svg?style=for-the-badge
 [contributors-url]: https://github.com/ars-21/Thesis_Management_System/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[forks-shield]: https://img.shields.io/github/forks/ars-21/Thesis_Management_System.svg?style=for-the-badge
+[forks-url]: https://github.com/ars-21/Thesis_Management_System/network/members
+[stars-shield]: https://img.shields.io/github/stars/ars-21/Thesis_Management_System.svg?style=for-the-badge
+[stars-url]: https://github.com/ars-21/Thesis_Management_System/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ars-21/Thesis_Management_System.svg?style=for-the-badge
+[issues-url]: https://github.com/ars-21/Thesis_Management_System/issues
+[license-shield]: https://img.shields.io/github/license/ars-21/Thesis_Management_System.svg?style=for-the-badge
+[license-url]: https://github.com/ars-21/Thesis_Management_System/blob/master/LICENSE.txt
+
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
