@@ -1,4 +1,4 @@
-<div id="top"></div>
+<a name="readme-top"></a>
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -12,7 +12,75 @@
   <a href="https://github.com/ars-21/Thesis_Management_System">
     <img src="/assets/vjti_logo.jpeg" alt="Logo" width="120" height="120">
   </a>
-<div>
+
+<h1 align="center">Thesis Management System</h1>
+
+  <p align="center">
+    A Web-Based Application for the entire life-cycle of a Thesis Creation
+    <br />
+    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    ·
+    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+  </p>
+</div>
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+
+# Thesis_Management_System
+A Web-Based Application for the entire life-cycle of a Thesis Creation
+
+<!-- CONTRIBUTORS -->
+## Contributors
+* [Shaurya Swarup](https://github.com/ShauryaSwarup)
+* [Narayani Bokde](https://github.com/narayanibokde9)
+* [Adwait Mandge](https://github.com/adwaitmandge)
+* [Pranav Janjani](https://github.com/compgeek03)
+* [Siddheshsingh Tanwar](https://github.com/siddheshsingh26)
+* [Aryan Shah](https://github.com/ars-21)
+
+
+<!-- ACKNOWLEDGEMENTS AND REFERENCES -->
+## Acknowledgements and References
+* [SRA VJTI](http://sra.vjti.info/) Eklavya 2022  
+* [ETH-Zürich : ethz-asl/rotors_simulator Repository](https://github.com/ethz-asl/rotors_simulator) for the plugins as well as the model of the drone.
+* [Tim Wescott](http://wescottdesign.com/articles/pid/pidWithoutAPhd.pdf) for the paper PID without PhD which was extremely illuminating for beginners in PID
+* Our mentors [Sagar Chotalia](https://github.com/sagarchotalia), [Jash Shah](https://github.com/Jash-Shah) and [Ayush Kaura](https://github.com/Ayush-Kaura) for their guidance throughout the whole project
+ 
+<!-- License -->
+## License
+[MIT License](https://opensource.org/licenses/MIT)
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/ars-21/Thesis_Management_System.svg?style=for-the-badge
@@ -43,28 +111,4 @@
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-
-# Thesis_Management_System
-A Web-Based Application for the entire life-cycle of a Thesis Creation
-
-<!-- CONTRIBUTORS -->
-## Contributors
-* [Shaurya Swarup](https://github.com/ShauryaSwarup)
-* [Narayani Bokde](https://github.com/narayanibokde9)
-* [Adwait Mandge](https://github.com/adwaitmandge)
-* [Pranav Janjani](https://github.com/compgeek03)
-* [Siddheshsingh Tanwar](https://github.com/siddheshsingh26)
-* [Aryan Shah](https://github.com/ars-21)
-
-
-<!-- ACKNOWLEDGEMENTS AND REFERENCES -->
-## Acknowledgements and References
-* [SRA VJTI](http://sra.vjti.info/) Eklavya 2022  
-* [ETH-Zürich : ethz-asl/rotors_simulator Repository](https://github.com/ethz-asl/rotors_simulator) for the plugins as well as the model of the drone.
-* [Tim Wescott](http://wescottdesign.com/articles/pid/pidWithoutAPhd.pdf) for the paper PID without PhD which was extremely illuminating for beginners in PID
-* Our mentors [Sagar Chotalia](https://github.com/sagarchotalia), [Jash Shah](https://github.com/Jash-Shah) and [Ayush Kaura](https://github.com/Ayush-Kaura) for their guidance throughout the whole project
- 
-<!-- License -->
-## License
-[MIT License](https://opensource.org/licenses/MIT)
 
