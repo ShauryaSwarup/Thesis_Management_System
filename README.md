@@ -1,22 +1,18 @@
 <div id="top"></div>
 
-<br />
-<div align="center">
-  [![Contributors][contributors-shield]][contributors-url]
-  [![Forks][forks-shield]][forks-url]
-  [![Stargazers][stars-shield]][stars-url]
-  [![Issues][issues-shield]][issues-url]
-  [![MIT License][license-shield]][license-url]
-  </a>
-</div>
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
 <!-- VJTI LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/ars-21/Thesis_Management_System">
-    <img src="/assets/vjti_logo.jpeg" alt="Logo" width="80" height="80">
+    <img src="/assets/vjti_logo.jpeg" alt="Logo" width="120" height="120">
   </a>
-</div>
+<div>
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/ars-21/Thesis_Management_System.svg?style=for-the-badge
