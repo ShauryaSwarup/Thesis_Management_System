@@ -203,7 +203,7 @@ The system has a user-friendly interface that is easy to navigate and understand
 [issues-shield]: https://img.shields.io/github/issues/ars-21/Thesis_Management_System.svg?style=for-the-badge
 [issues-url]: https://github.com/ars-21/Thesis_Management_System/issues
 [license-shield]: https://img.shields.io/github/license/ars-21/Thesis_Management_System.svg?style=for-the-badge
-[license-url]: https://github.com/ars-21/Thesis_Management_System/blob/master/LICENSE.txt
+[license-url]: https://github.com/ars-21/Thesis_Management_System/LICENSE.txt
 
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
