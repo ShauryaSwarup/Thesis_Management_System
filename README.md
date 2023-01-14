@@ -103,7 +103,7 @@ The system has a user-friendly interface that is easy to navigate and understand
 
 <div align="left">
   <a href="https://github.com/ars-21/Thesis_Management_System">
-    <img src="/assetsnextjs.png" alt="Logo" width="40" height="40">
+    <img src="/assets/nextjs.png" alt="Logo" width="40" height="40">
   </a>
 
 
