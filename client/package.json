@@ -20,7 +20,18 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-toastify": "^9.1.1",
-    "styled-components": "^5.3.6"
+    "styled-components": "^5.3.6",
+    "@fontsource/roboto": "^4.5.8",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.4",
+    "@mui/styled-engine-sc": "^5.11.0",
+    "@nivo/core": "^0.80.0",
+    "@nivo/line": "^0.80.0",
+    "@nivo/pie": "^0.80.0",
+    "eslint": "8.31.0",
+    "eslint-config-next": "13.1.1",
+    "flowbite": "^1.6.2",
+    "react-circular-progressbar": "^2.1.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.13",
