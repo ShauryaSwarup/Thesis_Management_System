@@ -165,6 +165,13 @@ The system has a user-friendly interface that is easy to navigate and understand
 title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="31px" height="31px" ></a>
 
 
+## Presentation
+
+Detailed Presentation can be found [here](https://www.canva.com/design/DAFXlCKfSFc/cGs67yBaWAVsnJbs2WOR7Q/view?utm_content=DAFXlCKfSFc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+If the link is non-functional, it is also available [here](./assets/Thesis_Management_System_Kairos.pdf)
+
+
 ## Future Work
 
 * Multidocument summary model 
