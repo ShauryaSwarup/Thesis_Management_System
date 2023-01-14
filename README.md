@@ -172,6 +172,44 @@ Detailed Presentation can be found [here](https://www.canva.com/design/DAFXlCKfS
 If the link is non-functional, it is also available [here](./assets/Thesis_Management_System_Kairos.pdf)
 
 
+## Website
+
+### Main Website
+
+#### Landing Page
+
+![](./assets/CoverPhoto.png)
+
+#### 1. OAuth, New Registration and SignIn
+
+![](./assets/Screenshot%20(146).png)
+
+#### 2. Dashboard
+
+![](./assets/Screenshot%20(147).png)
+
+#### 3. New Thesis Template
+
+![](./assets/Screenshot%20(148).png)
+
+#### 4. Schema
+
+![](./assets/Screenshot%20(149).png)
+
+
+### Chat System
+
+#### 1. Authentication, Login and Registration
+
+![](./assets/Screenshot%20from%202023-01-14%2009-47-18.png)
+
+#### 2. Main Chat System
+
+![](./assets/Screenshot%20from%202023-01-14%2014-38-23.png)
+
+
+
+
 ## Future Work
 
 * Multidocument summary model 
