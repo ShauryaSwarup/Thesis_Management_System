@@ -156,13 +156,15 @@ The system has a user-friendly interface that is easy to navigate and understand
 <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="31px" height="31px"></a>
 <a href="" title="Flask"><img src="/assets/flask.png" alt="Flask" width="81px" height="31px"></a>
 <a href="" title="Supabase"><img src="https://supabase.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsupabase-logo-wordmark--dark.53d797e9.png&w=256&q=75" alt="Supabase" width="151px" height="31px"></a>
-<a href="" title="Chakra UI"><img src="/assets/chakraui.jpeg" width="151px" height="31px"></a>
-
-
-
-
+<a href="" title="Chakra UI"><img src="/assets/chakraui.jpeg" width="131px" height="31px"></a>
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="31px" height="31px"></a>
+<a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="31px" height="31px"></a>
+<a href="" title="SocketIO"><img src="https://socket.io/images/logo.svg" alt="SocketIO" width="31px" height="31px"></a>
+<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="31px" height="31px"></a>
 <a href="https://www.python.org/" 
 title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="31px" height="31px" ></a>
+
+
 ## Future Work
 
 * multidocument summary model 
