@@ -24,7 +24,7 @@
   </p>
 </div>
 
-
+![](./assets/CoverPhoto.png)
 
 ## Overview
 A Thesis Management System is a web-based platform that helps students and faculty advisers manage and track the progress of research and thesis work. A dashboard for students and advisors to monitor progress and communicate, progress tracking tools, a chat system for communication between students and advisors, research paper summaries, and a recommendation system employing machine learning models are all possible aspects of the system.
@@ -167,11 +167,11 @@ title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/py
 
 ## Future Work
 
-* multidocument summary model 
-* code generation by research paper provision 
-* stendt advisor pairing system 
-* skill based course reccomendation and upgrading 
-* logical fact checking system 
+* Multidocument summary model 
+* Code generation by research paper provision 
+* Stendt advisor pairing system 
+* Skill based course reccomendation and upgrading 
+* Logical fact checking system 
 
 <!-- CONTRIBUTORS -->
 ## Contributors
