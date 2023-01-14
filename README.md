@@ -4,7 +4,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 
 <!-- VJTI LOGO -->
 <br />
@@ -25,33 +24,6 @@
   </p>
 </div>
 
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
 
 
 ## Overview
@@ -174,6 +146,14 @@ The system has a user-friendly interface that is easy to navigate and understand
 <div>
 
 
+## Future Work
+
+* multidocument summary model 
+* code generation by research paper provision 
+* stendt advisor pairing system 
+* skill based course reccomendation and upgrading 
+* logical fact checking system 
+
 <!-- CONTRIBUTORS -->
 ## Contributors
 * [Shaurya Swarup](https://github.com/ShauryaSwarup) : [srswarup_b21@ce.vjti.ac.in](mailto:srswarup_b21@ce.vjti.ac.in)
@@ -202,5 +182,3 @@ The system has a user-friendly interface that is easy to navigate and understand
 [stars-url]: https://github.com/ars-21/Thesis_Management_System/stargazers
 [issues-shield]: https://img.shields.io/github/issues/ars-21/Thesis_Management_System.svg?style=for-the-badge
 [issues-url]: https://github.com/ars-21/Thesis_Management_System/issues
-[license-shield]: https://img.shields.io/github/license/ars-21/Thesis_Management_System.svg?style=for-the-badge
-[license-url]: https://github.com/ars-21/Thesis_Management_System/blob/master/LICENSE.txt
