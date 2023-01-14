@@ -98,6 +98,15 @@ The system includes a reporting and analytics feature that allows students and a
 
 The system has a user-friendly interface that is easy to navigate and understand, which helps students and advisors to quickly find the information they need and complete their tasks efficiently.
 
+
+## Technology Stack
+
+<div align="left">
+  <a href="https://github.com/ars-21/Thesis_Management_System">
+    <img src="/assetsnextjs.png" alt="Logo" width="40" height="40">
+  </a>
+
+
 <!-- CONTRIBUTORS -->
 ## Contributors
 * [Shaurya Swarup](https://github.com/ShauryaSwarup) : [srswarup_b21@ce.vjti.ac.in](mailto:srswarup_b21@ce.vjti.ac.in)
