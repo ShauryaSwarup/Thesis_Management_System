@@ -107,6 +107,72 @@ The system has a user-friendly interface that is easy to navigate and understand
   </a>
 <div>
 
+<div align="left">
+  <a href="https://github.com/ars-21/Thesis_Management_System">
+    <img src="/assets/react.png" alt="Logo" width="200" height="40">
+  </a>
+<div>
+
+<div align="left">
+  <a href="https://github.com/ars-21/Thesis_Management_System">
+    <img src="/assets/materialui.png" alt="Logo" width="200" height="40">
+  </a>
+<div>
+
+<div align="left">
+  <a href="https://github.com/ars-21/Thesis_Management_System">
+    <img src="/assets/tailwindcss.png" alt="Logo" width="200" height="40">
+  </a>
+<div>
+
+<div align="left">
+  <a href="https://github.com/ars-21/Thesis_Management_System">
+    <img src="/assets/flask.png" alt="Logo" width="200" height="40">
+  </a>
+<div>
+
+<div align="left">
+  <a href="https://github.com/ars-21/Thesis_Management_System">
+    <img src="/assets/supabase.jpeg" alt="Logo" width="200" height="40">
+  </a>
+<div>
+
+<div align="left">
+  <a href="https://github.com/ars-21/Thesis_Management_System">
+    <img src="/assets/chakraui.jpeg" alt="Logo" width="200" height="40">
+  </a>
+<div>
+
+<div align="left">
+  <a href="https://github.com/ars-21/Thesis_Management_System">
+    <img src="/assets/postgresql.png" alt="Logo" width="200" height="40">
+  </a>
+<div>
+
+<div align="left">
+  <a href="https://github.com/ars-21/Thesis_Management_System">
+    <img src="/assets/expressjs.png" alt="Logo" width="200" height="40">
+  </a>
+<div>
+
+<div align="left">
+  <a href="https://github.com/ars-21/Thesis_Management_System">
+    <img src="/assets/socketio.png" alt="Logo" width="200" height="40">
+  </a>
+<div>
+
+<div align="left">
+  <a href="https://github.com/ars-21/Thesis_Management_System">
+    <img src="/assets/htmlcssjavascript.png" alt="Logo" width="200" height="40">
+  </a>
+<div>
+
+<div align="left">
+  <a href="https://github.com/ars-21/Thesis_Management_System">
+    <img src="/assets/nodejs.png" alt="Logo" width="200" height="40">
+  </a>
+<div>
+
 
 <!-- CONTRIBUTORS -->
 ## Contributors
