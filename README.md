@@ -109,25 +109,25 @@ The system has a user-friendly interface that is easy to navigate and understand
 
 <div align="left">
   <a href="https://github.com/ars-21/Thesis_Management_System">
-    <img src="/assets/react.png" alt="Logo" width="200" height="40">
+    <img src="/assets/react.png" alt="Logo" width="200" height="80">
   </a>
 <div>
 
 <div align="left">
   <a href="https://github.com/ars-21/Thesis_Management_System">
-    <img src="/assets/materialui.png" alt="Logo" width="200" height="40">
+    <img src="/assets/materialui.png" alt="Logo" width="200" height="120">
   </a>
 <div>
 
 <div align="left">
   <a href="https://github.com/ars-21/Thesis_Management_System">
-    <img src="/assets/tailwindcss.png" alt="Logo" width="200" height="40">
+    <img src="/assets/tailwindcss.png" alt="Logo" width="200" height="100">
   </a>
 <div>
 
 <div align="left">
   <a href="https://github.com/ars-21/Thesis_Management_System">
-    <img src="/assets/flask.png" alt="Logo" width="200" height="40">
+    <img src="/assets/flask.png" alt="Logo" width="200" height="80">
   </a>
 <div>
 
@@ -145,7 +145,7 @@ The system has a user-friendly interface that is easy to navigate and understand
 
 <div align="left">
   <a href="https://github.com/ars-21/Thesis_Management_System">
-    <img src="/assets/postgresql.png" alt="Logo" width="200" height="40">
+    <img src="/assets/postgresql.png" alt="Logo" width="200" height="100">
   </a>
 <div>
 
@@ -157,13 +157,13 @@ The system has a user-friendly interface that is easy to navigate and understand
 
 <div align="left">
   <a href="https://github.com/ars-21/Thesis_Management_System">
-    <img src="/assets/socketio.png" alt="Logo" width="200" height="40">
+    <img src="/assets/socketio.png" alt="Logo" width="200" height="100">
   </a>
 <div>
 
 <div align="left">
   <a href="https://github.com/ars-21/Thesis_Management_System">
-    <img src="/assets/htmlcssjavascript.png" alt="Logo" width="200" height="40">
+    <img src="/assets/htmlcssjavascript.png" alt="Logo" width="200" height="100">
   </a>
 <div>
 
