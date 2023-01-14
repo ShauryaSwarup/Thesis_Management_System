@@ -19,9 +19,7 @@
     A web-based application that manages the entire workflow of a PhD Thesis.
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/ars-21/Thesis_Management_System/issues">Report Bug</a>
+     <a href="https://github.com/ars-21/Thesis_Management_System/issues">Report Bug</a>
     ·
     <a href="https://github.com/ars-21/Thesis_Management_System/issues">Request Feature</a>
   </p>
@@ -56,8 +54,49 @@
 </details>
 
 
-# Thesis_Management_System
-A Web-Based Application for the entire life-cycle of a Thesis Creation
+## Overview
+A Thesis Management System is a web-based platform that helps students and faculty advisers manage and track the progress of research and thesis work. A dashboard for students and advisors to monitor progress and communicate, progress tracking tools, a chat system for communication between students and advisors, research paper summaries, and a recommendation system employing machine learning models are all possible aspects of the system.
+
+
+## Features
+
+### 1. Dashboard
+
+The dashboard is the central hub of the system where students and faculty advisors can view the progress of thesis projects. It can display information such as the status of the project, upcoming deadlines, and recent activity. The dashboard can also provide access to other features of the system such as the chat system and progress tracking tools.
+
+### 2. Progress Tracking
+
+The system includes tools for tracking the progress of thesis projects. This includes a calendar for tracking deadlines, a task list for tracking progress on specific tasks, and a progress meter that shows the percentage of the project that has been completed. This information can be made available to both students and faculty advisors so they can stay informed about the progress of the project.
+
+### 3. Chat System
+
+A chat system for communication between students and faculty advisors. A simple text-based chat or a more advanced system with video and audio capabilities. The chat system is integrated with the dashboard and progress tracking tools to provide an easy way for students and faculty advisors to communicate about the project.
+
+### 4. Research Paper Summarization
+
+It includes a feature for summarizing research papers. This can use machine learning models such as natural language processing and text summarization to automatically generate a summary of a research paper. This feature will be useful for students who need to quickly understand the main points of a research paper before starting their thesis project.
+
+### 5. Recommendation System 
+
+A system that suggests research papers to students based on the topic of their thesis project. This can use machine learning models such as natural language processing and clustering to analyze the content of research papers and match them to the topic of the thesis project. This feature can help students discover relevant research papers that they may not have otherwise found.
+
+### 6. Document Management
+
+A feature for managing documents related to the thesis project. This can include options for uploading, downloading and sharing documents with the advisor. This feature will help students and advisors keep track of all the necessary documents for the project, such as proposals, drafts and final versions.
+
+
+### 7. Security
+
+It can include robust security measures to protect the privacy and confidentiality of the data. This can include options for password protection, encrypted data storage and access controls.
+
+### 8. Reporting and Analytics
+
+The system includes a reporting and analytics feature that allows students and advisors to track the progress of the thesis project over time. This can include options for generating reports on project completion, student performance and other metrics.
+
+
+### 9. User-Friendly Interface
+
+The system has a user-friendly interface that is easy to navigate and understand, which helps students and advisors to quickly find the information they need and complete their tasks efficiently.
 
 <!-- CONTRIBUTORS -->
 ## Contributors
@@ -71,10 +110,8 @@ A Web-Based Application for the entire life-cycle of a Thesis Creation
 
 <!-- ACKNOWLEDGEMENTS AND REFERENCES -->
 ## Acknowledgements and References
-* [SRA VJTI](http://sra.vjti.info/) Eklavya 2022  
-* [ETH-Zürich : ethz-asl/rotors_simulator Repository](https://github.com/ethz-asl/rotors_simulator) for the plugins as well as the model of the drone.
-* [Tim Wescott](http://wescottdesign.com/articles/pid/pidWithoutAPhd.pdf) for the paper PID without PhD which was extremely illuminating for beginners in PID
-* Our mentors [Sagar Chotalia](https://github.com/sagarchotalia), [Jash Shah](https://github.com/Jash-Shah) and [Ayush Kaura](https://github.com/Ayush-Kaura) for their guidance throughout the whole project
+* [Veermata Jijabai Technological Institute, Mumbai](https://vjti.ac.in/)
+* Digital Campus Hackathon 2023
  
 <!-- License -->
 ## License
